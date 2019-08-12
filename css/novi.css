@@ -54,6 +54,13 @@ a:hover {
   padding-top: 100px;
 }
 
+@media only screen and (max-width: 780px) {
+  .top-container {
+    background-color: lightblue;
+  }
+}
+
+
 .middle-container {
   margin: 100px 0;
 }
